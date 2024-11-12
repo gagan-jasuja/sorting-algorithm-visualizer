@@ -1,0 +1,12 @@
+{
+  "name": "sorting-visualizer",
+  "version": "1.0.0",
+  "description": "Sorting Algorithm Visualizer",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "start index.html"
+  },
+  "author": "Gagan Jasuja",
+  "license": "ISC"
+}
